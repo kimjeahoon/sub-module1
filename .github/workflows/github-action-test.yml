@@ -6,5 +6,5 @@ jobs:
         steps:
             - uses: actions/checkout@v2
 
-            - name: Run Script
+            - name: Run Action Script
               run: npm run action
